@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2021.
+ * https://github.com/albi-art/LinkSender
+ */
+
 package my.firstApp.linkSender;
 
 import android.annotation.SuppressLint;
